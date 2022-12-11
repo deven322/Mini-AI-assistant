@@ -1,5 +1,5 @@
 
-# Mini-AI-assistant using Python
+# Mini AI-assistant using Python
 
 A Simple AI voice assistant using python made as a project for Internship Bootcamp at TwoWaits which integrates with variouss modules to answer your questions!
 ## Features
